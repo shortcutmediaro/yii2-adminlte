@@ -1,0 +1,25 @@
+{
+    "name": "shortcutmediaro/yii2-adminlte",
+    "description": "Backend theme for Yii2 Framework",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","adminlte"],
+    "license": "Apache2",
+    "authors": [
+        {
+            "name": "Cosmin Hutanu",
+            "email": "cosmin@shortcutmedia.ro"
+        },
+    ],
+    "require": {
+        "yiisoft/yii2": "*",
+        "yiisoft/yii2-bootstrap": "*",
+        "cebe/yii2-gravatar": "*",
+        "bower-asset/admin-lte": "*",
+        "bower-asset/font-awesome": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "shortcutmediaro\\": ""
+        }
+    }
+}
