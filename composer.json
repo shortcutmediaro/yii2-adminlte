@@ -3,12 +3,12 @@
     "description": "Backend theme for Yii2 Framework",
     "type": "yii2-extension",
     "keywords": ["yii2","extension","adminlte"],
-    "license": "Apache2",
+    "license": "Apache-2.0",
     "authors": [
         {
             "name": "Cosmin Hutanu",
             "email": "cosmin@shortcutmedia.ro"
-        },
+        }
     ],
     "require": {
         "yiisoft/yii2": "*",
